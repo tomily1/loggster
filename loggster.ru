@@ -1,5 +1,5 @@
 class Loggster
-	def initialize app
+  def initialize app
     @app = app
   end
 
